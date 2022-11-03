@@ -36,6 +36,7 @@
   font-size: 0.75rem;
   list-style: none;
   display: inline;
+  margin-right: 2rem;
 }
 .main-menu li a {
   color: #000;
