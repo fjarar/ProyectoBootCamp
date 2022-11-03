@@ -87,3 +87,20 @@ $color-main: #0075FF;
         text-align: center;
     }
 }
+
+.icon-desc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    .icon {
+        color: $color-main;
+        padding: 0;
+        font-size: 10rem;
+    }
+    .title{
+        margin-top: -2rem;
+        font-size: 1.5rem;
+        font-weight: 600;
+    }
+}
